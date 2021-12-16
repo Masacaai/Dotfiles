@@ -1,0 +1,62 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="22ChaUj9JqhGOuDt1WdX0VnzZL8">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="22Kvse5g5M5AwXVr6TZBJY9oyzL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/bin/node" />
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.25" />
+    <option name="fontSize" value="18" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="Markdown Split EditorLayout" value="Editor only" />
+    <property name="MarketplacePluginsSearchHistory" value="theme" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PACKAGE_FILTER" value="django-crisp&#10;django" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="appcds.runOnSecondStart" value="PY-213.5744.248-62d144702853bc73101cc2117927cc0579627b4b4ccda13772549c322497daad" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="bundled.plugins.list.saved.version" value="PY-213.5744.248" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.gist.reindex.count" value="3" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.js.debugger.terminal.start.debugger.from.url" value="1" />
+    <property name="gotit.previous.run" value="PY-213.5744.248" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ideavim.statistics.timestamp" value="1639599301165" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="registry.to.advanced.settings.migration.build" value="PY-213.5744.248" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.4.4" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Bhavanites.com-history1" project-path="$USER_HOME$/Code/PycharmProjects/Bhavanites.com" last-access-time="1639604161903" />
+      <command-history-file filename="Bhavanites.com-history" project-path="$USER_HOME$/PycharmProjects/Bhavanites.com" last-access-time="1639599216432" />
+    </command-history-files>
+  </component>
+</application>

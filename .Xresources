@@ -1,0 +1,36 @@
+Xft.antialias: true
+Xft.hinting:   true
+Xft.rgba:      rgb
+Xft.hintstyle: hintfull
+Xft.dpi:       120
+URxvt.font: xft:monospace:size=11 
+URxvt.scrollBar: false
+
+URxvt*background: #020013
+URxvt*foreground: #93d7ec
+
+URxvt*color0: #020013
+URxvt*color1: #D8458B
+URxvt*color2: #54EA9F
+URxvt*color3: #F9DA70
+URxvt*color4: #0D73CC
+URxvt*color5: #FF4FBE
+URxvt*color6: #49CCED
+URxvt*color7: #DDDDDD
+URxvt*color8: #DDDDDD
+URxvt*color9: #D8458B
+URxvt*color10: #54EA9F
+URxvt*color11: #F9DA70
+URxvt*color12: #0D73CC
+URxvt*color13: #FF4FBE
+URxvt*color14: #49CCED
+URxvt*color15: #FFFFFF
+
+URxvt.perl-ext-common: default,resize-font,matcher
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+
+
+
+
+

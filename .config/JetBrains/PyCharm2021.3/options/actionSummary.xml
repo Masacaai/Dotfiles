@@ -1,0 +1,43 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CloseProject">
+      <i c="1" l="1639599227927" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="7" l="1639599451769" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1639597235258" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1639599312907" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="2" l="1639599243238" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="1" l="1639599237929" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1639599482411" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.TextEditorWithPreview$ChangeViewModeAction">
+      <i c="5" l="1639348031197" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="5" l="1639601560333" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="2" l="1639599556456" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="2" l="1639599391781" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1639599390316" />
+    </e>
+    <e n="com.intellij.webcore.packaging.InstalledPackagesPanel$4">
+      <i c="1" l="1639599422512" />
+    </e>
+  </component>
+</application>

@@ -15,4 +15,5 @@ run mpris-proxy
 run picom -b -f --experimental-backends
 run caffeine
 run clipit
-run xss-lock -- betterlockscreen -l 
+run xset s 300 5
+run xss-lock -n -l -- dm-tool switch-to-greeter 

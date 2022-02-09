@@ -126,7 +126,7 @@ local function set_wallpaper(s)
         if type(wallpaper) == "function" then
             wallpaper = wallpaper(s)
         end
-        gears.wallpaper.maximized(wallpaper, s, true)
+        gears.wallpaper.centered(wallpaper, s)
     end
 end
 
@@ -156,7 +156,7 @@ awful.screen.connect_for_each_screen(function(s)
                            awful.button({ }, 5, function () awful.layout.inc(-1) end)))
     -- Create a taglist widget
     s.mytaglist = awful.widget.taglist {
-        screen  = s,
+	screen  = s,
         filter  = awful.widget.taglist.filter.all,
         buttons = taglist_buttons
     }
